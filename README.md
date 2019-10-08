@@ -10,4 +10,4 @@ Deployed Flask app to Heroku here: https://social-netwoking.herokuapp.com/ Used 
 
 Below is a screenshot of the website. 
 
-![map_image](full.png)
+![image](full.png)
